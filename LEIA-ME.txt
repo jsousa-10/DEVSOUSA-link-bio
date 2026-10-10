@@ -1,0 +1,23 @@
+DEVSOUSA — Link na Bio
+
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra a pasta no VS Code.
+3. Abra o arquivo index.html no navegador (ou use a extensão Live Server).
+
+PERSONALIZE OS LINKS NO index.html
+- Portfólio: troque https://SEU-PORTFOLIO.com pelo endereço real.
+- WhatsApp: troque 55SEUNUMERO pelo número completo com código do país e DDD, somente números.
+  Exemplo de formato: 55 + DDD + número.
+- Instagram: troque SEU_USUARIO pelo seu nome de usuário.
+- GitHub: troque SEU_USUARIO pelo seu usuário.
+- LinkedIn: troque SEU_USUARIO pelo seu perfil.
+- E-mail: troque SEUEMAIL@exemplo.com pelo seu e-mail.
+
+ARQUIVOS
+- index.html: conteúdo e links
+- style.css: cores, layout e animações
+- script.js: ano automático e pequenos efeitos em JavaScript
+
+OBSERVAÇÃO
+O projeto usa JavaScript (não Java), que é a linguagem usada para interações no navegador.
